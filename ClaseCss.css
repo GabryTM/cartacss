@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
+p {
+background-color: darkviolet;
+}
+h2 {
+    background-color: aquamarine; font-family: 'Beau Rivage', cursive;
+}
+p {
+    background-color: gold;
+}
+#parrafo {
+    background-color: deeppink;
+}
+.clase_parrafo2 {
+    background-color: black;
+}
+.clase_parrafo {
+    background-color: darkslategray;
+}
+h3 ¨{
+    background-color: hotpink;
+}
+.clase3 {
+    background-color: goldenrod;
+}

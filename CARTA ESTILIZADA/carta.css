@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Beau+Rivage&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Barlow+Condensed:ital,wght@1,100&family=Didact+Gothic&family=Gothic+A1:wght@100;300&family=Kaushan+Script&display=swap');
+body {
+margin: auto;
+    max-width: 600px;
+}
+p {
+    text-align: right;
+    color: grey;
+}
+.firma { 
+    font-family: 'Babylonica', cursive;
+    text-align:center;
+    color: midnightblue;
+    font-size:30px;
+    width: 1000px;
+}
+h1 {
+    font-family: 'Didact Gothic', sans-serif;
+    color:indigo;
+}
+h4 {
+    font-family: 'Antic Slab', serif;
+    color:firebrick;
+}
+.texto {
+    font-family: 'Gothic A1', sans-serif;
+}
+.texto2 {
+    font-family: 'Barlow Condensed', sans-serif;
+    color: green;
+}
+.texto3 {
+    font-family: 'Kaushan Script', cursive;
+    color: mediumseagreen;
+}
